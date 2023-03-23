@@ -55,4 +55,5 @@ A `3-timer/index.html` oldalon találhatók linkek (Bootstrap button-ok). Kész�
 - Minden másodpercben frissítsd a gomb szövegét, hogy a maradék időt mutassa. Fontos, hogy ez gombonként eltérő érték is lehet, hiszen komponensekkel dolgozunk! (3 pont)
 
 Minta:
+
 ![timer](3-button.gif)
